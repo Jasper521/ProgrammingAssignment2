@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## This is my own edition and ready to sumbit later
 
 makeCacheMatrix <- function(x = matrix()) {
 
